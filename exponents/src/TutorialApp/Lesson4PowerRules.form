@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="pnlContent" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="pnlContent" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="pnlContent">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblLesson4Content" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblLesson4Title" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="lblMultipleTermRule" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                          <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                              <Component id="lblPowerDesc3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                                  <Component id="lblPowerDesc8" alignment="0" max="32767" attributes="0"/>
+                                                  <Component id="lblPowerDesc6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="lblPowerDesc10" alignment="0" min="-2" pref="516" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Component id="lblPowerDesc7" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                  <Component id="lblExponentDesc2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="lblPowerDesc1" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblPowerDesc2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblSingleTermRule1" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblPowerDesc4" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblPowerDesc9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="btnAnswer1" alignment="0" min="-2" pref="142" max="-2" attributes="0"/>
+                              <Component id="btnAnswer2" alignment="0" min="-2" pref="142" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblSystemAnswer2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lblSystemAnswer1" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblPowerDesc5" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="582" pref="582" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="chkChoice21" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="chkChoice22" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="chkChoice23" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblLesson4Practice" min="-2" max="-2" attributes="0"/>
+                                      <Component id="chkChoice11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="chkChoice12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="chkChoice13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblQuestion2" min="-2" pref="379" max="-2" attributes="0"/>
+                                      <Component id="lblQuestion1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="201" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="lblLesson4Title" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblLesson4Practice" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="lblLesson4Content" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="lblExponentDesc2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                                  <Component id="lblSingleTermRule1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc9" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="112" max="-2" attributes="0"/>
+                          <Component id="lblQuestion1" min="-2" pref="31" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="lblSystemAnswer1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="chkChoice11" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="chkChoice12" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="chkChoice13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="btnAnswer1" min="-2" pref="51" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="lblQuestion2" min="-2" pref="31" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="chkChoice21" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="lblMultipleTermRule" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc7" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc8" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblPowerDesc10" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="chkChoice22" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="chkChoice23" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="lblSystemAnswer2" max="32767" attributes="0"/>
+                                      <Component id="btnAnswer2" pref="51" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="37" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblLesson4Practice">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="40" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="PRACTICE"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblQuestion1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;1. What is the value of (2&lt;sup&gt;2&lt;/sup&gt; * 3)&lt;sup&gt;2&lt;/sup&gt;?&lt;/html&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="  144"/>
+            <Property name="actionCommand" type="java.lang.String" value="zxdgfsdsdgsssssssssssssssssssssssssssssssssssssssssss"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice12">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="  12"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice13">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="  48"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnAnswer1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Submit"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                <EtchetBorder>
+                  <Color PropertyName="highlight" blue="ff" green="99" red="0" type="rgb"/>
+                  <Color PropertyName="shadow" blue="99" green="99" red="99" type="rgb"/>
+                </EtchetBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAnswer1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSystemAnswer1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="16" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="33" red="cc" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblQuestion2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;2. What would the value of (3&lt;sup&gt;2&lt;/sup&gt; / 7)&lt;sup&gt;-1&lt;/sup&gt; be?&lt;/html&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice21">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="  9 / 7"/>
+            <Property name="actionCommand" type="java.lang.String" value="zxdgfsdsdgsssssssssssssssssssssssssssssssssssssssssss"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice22">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&amp;nbsp 7 / 9&lt;/html&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="chkChoice23">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="  1 / 63"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSystemAnswer2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="16" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="33" red="cc" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblLesson4Content">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="40" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="CONTENT"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="There are many distributive rules that exist to simplify"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="mathematical expressions.  "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="bases of the multiplication or division."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblExponentDesc2">
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblLesson4Title">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="48" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="33" red="cc" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="LESSON 4"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnAnswer2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Submit"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                <EtchetBorder>
+                  <Color PropertyName="highlight" blue="ff" green="99" red="0" type="rgb"/>
+                  <Color PropertyName="shadow" blue="99" green="99" red="99" type="rgb"/>
+                </EtchetBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnAnswer2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="When an entire power is raised to another exponent, "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblMultipleTermRule">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Multiple Term Distribution"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="multiply the exponents and keep the same base."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSingleTermRule1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Single Term Distribution"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="a number, distribute the exponent to each of the different"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="When a multiplication or division is put to the exponent of"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;As an example, (2&lt;sup&gt;3&lt;/sup&gt;/3&lt;sup&gt;4&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; = 2&lt;sup&gt;6&lt;/sup&gt; / 3&lt;sup&gt;8&lt;/sup&gt;&lt;/html&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;For instance, (2&lt;sup&gt;3&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; = 2&lt;sup&gt;6&lt;/sup&gt;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblPowerDesc10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="20" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;It works the same for multiplication, (2 * 3&lt;sup&gt;4&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;=2&lt;sup&gt;2&lt;/sup&gt;* 3&lt;sup&gt;8&lt;/sup&gt; &lt;/html&gt;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
